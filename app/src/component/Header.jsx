@@ -1,7 +1,9 @@
 function Header(){
     return(
         <>
-            <div className=""></div>
+            <div className="relative">
+                <div className=""></div>
+            </div>
         </>
     )
 }
